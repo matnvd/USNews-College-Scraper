@@ -30,7 +30,8 @@ FIELDS = [
     'searchData.satAvg.rawValue',
     'searchData.costAfterAid.rawValue',
     'searchData.testAvgs.displayValue.0.value',
-    'searchData.testAvgs.displayValue.1.value'
+    'searchData.testAvgs.displayValue.1.value',
+    'searchData.computerScienceRepScore.rawValue'
 ]
 
 DETAILED = False
